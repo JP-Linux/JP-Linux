@@ -21,7 +21,8 @@
 ### Principais Hábilidades:
 ![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Java](https://img.shields.io/badge/-java-0D1117?style=for-the-badge&logo=java&labelColor=0D1117)&nbsp;
-![C](https://img.shields.io/badge/-c-0D1117?style=for-the-badge&logo=c&labelColor=0D1117&textColor=0D1117)&nbsp;
+![C](https://img.shields.io/badge/--0D1117?style=for-the-badge&logo=c&labelColor=0D1117&textColor=0D1117)&nbsp;
+![C++](https://img.shields.io/badge/--0D1117?style=for-the-badge&logo=cplusplus&labelColor=0D1117)&nbsp;
 ![Shell](https://img.shields.io/badge/-shell-0D1117?style=for-the-badge&logo=shell&logoColor=purple&labelColor=0D1117)&nbsp;
 ![Seguranca_da_Informação](https://img.shields.io/badge/-Seguranca_da_Informação-0D1117?style=for-the-badge&logo=security&logoColor=purple&labelColor=0D1117)&nbsp;
 ![Arquitetura_de_Computadores](https://img.shields.io/badge/-Arquitetura_de_Computadores-0D1117?style=for-the-badge&logo=computer&logoColor=purple&labelColor=0D1117)&nbsp;
@@ -50,9 +51,7 @@
   
 ### Aprendizado Em Andamento:
 ![Assembly](https://img.shields.io/badge/-Assembly-0D1117?style=for-the-badge&logo=assemblyscript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![C++](https://img.shields.io/badge/-C++-0D1117?style=for-the-badge&logo=cplusplus&labelColor=0D1117)&nbsp;
 ![C#](https://img.shields.io/badge/-CShap-0D1117?style=for-the-badge&logo=sharp&labelColor=0D1117)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
