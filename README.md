@@ -18,41 +18,39 @@
 <a href="https://www.instagram.com/jorgepaulo_ba/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 </div> 
  
-### Principais Hábilidades:
-![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Java](https://img.shields.io/badge/-java-0D1117?style=for-the-badge&logo=java&labelColor=0D1117)&nbsp;
-![C](https://img.shields.io/badge/--0D1117?style=for-the-badge&logo=c&labelColor=0D1117&textColor=0D1117)&nbsp;
-![C++](https://img.shields.io/badge/--0D1117?style=for-the-badge&logo=cplusplus&labelColor=0D1117)&nbsp;
-[![Shell Script](https://img.shields.io/badge/Shell_Script-%23121011.svg?logo=gnu-bash)](https://www.gnu.org/software/bash/)&nbsp;
-![Seguranca_da_Informação](https://img.shields.io/badge/-Seguranca_da_Informação-0D1117?style=for-the-badge&logo=security&logoColor=purple&labelColor=0D1117)&nbsp;
-![Arquitetura_de_Computadores](https://img.shields.io/badge/-Arquitetura_de_Computadores-0D1117?style=for-the-badge&logo=computer&logoColor=purple&labelColor=0D1117)&nbsp;
- 
+### Principais Habilidades:
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)&nbsp;
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
+![Shell Script](https://img.shields.io/badge/Shell_Script-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)&nbsp;
+![Security](https://img.shields.io/badge/Security-3A3A3A?style=for-the-badge&logo=securityscorecard&logoColor=white)&nbsp;
+![Computer Architecture](https://img.shields.io/badge/Architecture-004088?style=for-the-badge&logo=arm&logoColor=white)&nbsp;
+
 ### Ferramentas:
-![Spyder](https://img.shields.io/badge/-Spyder-0D1117?style=for-the-badge&logo=spyderide&logoColor=C8A2C8&labelColor=0D1117)&nbsp;
-![Eclipse](https://img.shields.io/badge/-Eclipse-0D1117?style=for-the-badge&logo=eclipse&labelColor=0D1117)&nbsp;
-![NetBeans](https://img.shields.io/badge/-NetBeans-0D1117?style=for-the-badge&logo=apachenetbeanside&logoColor=90ee90&labelColor=0D1117)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=0D1117&labelColor=0D1117)&nbsp;
-![Code::Blocks](https://img.shields.io/badge/-Code::Blocks-0D1117?style=for-the-badge&logo=code::blocks&logoColor=90ee90&labelColor=0D1117)&nbsp;
-![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-![Linux](https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=linux&labelColor=0D1117)&nbsp;
+![Spyder](https://img.shields.io/badge/Spyder-FF0000?style=for-the-badge&logo=spyder-ide&logoColor=white)&nbsp;
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)&nbsp;
+![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)&nbsp;
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
+![Code::Blocks](https://img.shields.io/badge/Code::Blocks-269646?style=for-the-badge&logo=codeblocks&logoColor=white)&nbsp;
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)&nbsp;
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
 
- 
 ### Outros Conhecimentos:
-![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![Lua](https://img.shields.io/badge/-Lua-0D1117?style=for-the-badge&logo=lua&logoColor=purple&labelColor=0D1117)&nbsp; 
-![Arduino](https://img.shields.io/badge/-Arduino-0D1117?style=for-the-badge&logo=arduino&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![Flask](https://img.shields.io/badge/-Flask-0D1117?style=for-the-badge&logo=flask&labelColor=0D1117)&nbsp;
-![MySQL](https://img.shields.io/badge/-Mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
-![Pascal](https://img.shields.io/badge/-Pascal-0D1117?style=for-the-badge&logo=pascal&labelColor=0D1117)&nbsp;
-![Algoritmo](https://img.shields.io/badge/-Algoritmo-0D1117?style=for-the-badge&logo=the-algorithm&labelColor=0D1117)&nbsp;
-![ArchLinux](https://img.shields.io/badge/-ArchLinux-0D1117?style=for-the-badge&logo=archlinux&labelColor=0D1117)&nbsp;
-  
-### Aprendizado Em Andamento:
-![Assembly](https://img.shields.io/badge/Language-Assembly-0052cf)&nbsp;
-![C#](https://img.shields.io/badge/language-C%23-blueviolet)&nbsp;
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)&nbsp;
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)&nbsp;
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+![Pascal](https://img.shields.io/badge/Pascal-E3E3E3?style=for-the-badge&logo=pascal&logoColor=black)&nbsp;
+![Algorithms](https://img.shields.io/badge/Algorithms-00BCB4?style=for-the-badge&logo=thealgorithms&logoColor=white)&nbsp;
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)&nbsp;
 
+### Aprendizado Em Andamento:
+![Assembly](https://img.shields.io/badge/Assembly-007AAC?style=for-the-badge&logo=assemblyscript&logoColor=white)&nbsp;
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{JP-Linux}/count.svg" /></p> 
