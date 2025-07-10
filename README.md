@@ -51,9 +51,4 @@
 ![Assembly](https://img.shields.io/badge/Assembly-007AAC?style=for-the-badge&logo=assemblyscript&logoColor=white)&nbsp;
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
 
-<div align="center">
-<br><p align="center"><b>Visitors Count</b></p>  
-<p align="center"><img src="https://profile-counter.glitch.me/JP-Linux/count.svg" /></p> 
-<br></div>
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=120&section=footer"/>
