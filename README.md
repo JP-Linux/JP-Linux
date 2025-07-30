@@ -54,6 +54,7 @@
 ![Pascal](https://img.shields.io/badge/Pascal-E3E3E3?style=for-the-badge&logo=pascal&logoColor=black)&nbsp;
 ![Algorithms](https://img.shields.io/badge/Algorithms-00BCB4?style=for-the-badge&logo=thealgorithms&logoColor=white)&nbsp;
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)&nbsp;
+![Rust](https://img.shields.io/badge/Rust-8B0000?style=for-the-badge&logo=rust&logoColor=white)&nbsp;
 
 ### Aprendizado Em Andamento:
 ![Assembly](https://img.shields.io/badge/Assembly-007AAC?style=for-the-badge&logo=assemblyscript&logoColor=white)&nbsp;
