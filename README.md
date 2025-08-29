@@ -4,7 +4,7 @@
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=JP-Linux&show_icons=true&count_private=true&hide_border=false&border_color=0D1120&title_color=00FF7F&icon_color=FF0000&text_color=FFF&bg_color=0d1117" alt="Estatísticas"/> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JP-Linux&layout=compact&hide_border=true&title_color=00FF7F&text_color=00FF7F&bg_color=0d1117" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JP-Linux&langs_count=10&layout=compact&hide_border=true&title_color=00FF7F&text_color=00FF7F&bg_color=0d1117" />
 </div>
 
 <p align="center">
